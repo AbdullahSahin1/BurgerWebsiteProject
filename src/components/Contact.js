@@ -1,5 +1,5 @@
 import React from 'react';
-
+import BannerImage from '../images/banner.png';
 export const Contact = () => {
   return <div className="contact">
       <div
