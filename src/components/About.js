@@ -1,5 +1,5 @@
 import React from 'react';
-import banneryeni from '../assets/banneryeni.jpg'
+import banneryeni from '../images/banneryeni.jpg'
 import '../styles/about.css'
 export const About = () => {
   return <div>
